@@ -11,6 +11,7 @@ Cuando se cree un backend Node.js nuevo, revisa y usa [Roque-stack](https://gith
 | Carpeta | Skill | Usar cuando |
 | --- | --- | --- |
 | `skills/go-feature-architecture` | `go-feature-architecture` | Crear o modificar funcionalidades Go y DLL C-shared para Excel. |
+| `skills/diagramas-flujo-go-roque` | `diagramas-flujo-go-roque` | Crear diagramas de flujo Go en español con estilo Excalidraw limpio. |
 | `skills/apis-roque` | `apis-roque` | Crear, cambiar o depurar endpoints/APIs de backend Node.js, especialmente integraciones SUNAT. |
 | `skills/esquema-roque` | `esquema-roque` | Diseñar tablas, funciones, RLS o diagramas PostgreSQL/Supabase con convenciones Roque. |
 
