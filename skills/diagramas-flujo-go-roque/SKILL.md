@@ -36,4 +36,3 @@ Crear diagramas de flujo fieles al código Go y fáciles de leer. Usar estética
 - Exportar desde Excalidraw o mediante un exportador disponible. No instalar herramientas o dependencias ni ejecutar `npx skills add` sin autorización explícita.
 - Revisar visualmente el PNG: textos legibles, flechas conectadas y sin recortes ni cruces evitables. Confirmar que el `.excalidraw` conserva el diagrama editable.
 - Al responder, explicar qué flujo representa, enlazar la imagen y la fuente, y mostrar la imagen con una ruta absoluta cuando la interfaz lo permita. No decir que el PNG está listo si solo se generó la fuente editable.
-
